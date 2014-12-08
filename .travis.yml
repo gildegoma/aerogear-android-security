@@ -11,8 +11,8 @@ jdk:
 android:
   components:
     - build-tools-19.1.0
-    - android-19
-    - sys-img-armeabi-v7a-android-19
+    #- android-19
+    #- sys-img-armeabi-v7a-android-19
 
 env:
     matrix:
