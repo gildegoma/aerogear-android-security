@@ -1,3 +1,6 @@
+# test on staging:
+group: dev
+
 language: android
 
 notifications:
