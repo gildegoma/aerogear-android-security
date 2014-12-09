@@ -1,7 +1,7 @@
+language: android
+
 # test on staging:
 group: dev
-
-language: android
 
 #notifications:
 #  irc: "irc.freenode.org#aerogear"
